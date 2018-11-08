@@ -3,3 +3,10 @@ D:\GitHub\WebRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\bin\TTCTechWeb
 D:\GitHub\WebRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.csprojResolveAssemblyReference.cache
 D:\GitHub\WebRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.dll
 D:\GitHub\WebRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.pdb
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\bin\TTCTechWebSite.dll.config
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\bin\TTCTechWebSite.dll
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\bin\TTCTechWebSite.pdb
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.csprojAssemblyReference.cache
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.dll
+C:\GitHubRepo\web-myfirstWebApp\TTCTechWebSite\TTCTechWebSite\obj\Debug\TTCTechWebSite.pdb

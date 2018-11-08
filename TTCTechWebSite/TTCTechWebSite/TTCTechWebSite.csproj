@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -59,6 +61,18 @@
   <ItemGroup>
     <Content Include="Web.config" />
     <Content Include="WebPages\HomePage\homePage.html" />
+    <Content Include="WebPages\HomePage\HomePgStyle.css" />
+    <Content Include="WebPages\HomePage\images\3452093-space-shuttle-wallpapers.jpg" />
+    <Content Include="WebPages\HomePage\images\80035-space_shuttle-monochrome.jpg" />
+    <Content Include="WebPages\HomePage\images\9.jpg" />
+    <Content Include="WebPages\HomePage\images\Boeing_777_Air_Turbulence_Wallpaper_1600x1200_wallpaperhere.jpg" />
+    <Content Include="WebPages\HomePage\images\df.png" />
+    <Content Include="WebPages\HomePage\images\f0e956568293387bc53bb514cfc5cf92.jpg" />
+    <Content Include="WebPages\HomePage\images\fond-ecran-espace-09.jpg" />
+    <Content Include="WebPages\HomePage\images\logo.png" />
+    <Content Include="WebPages\HomePage\images\space-tumblr-wallpapers-picture_BnvcuQM.jpg" />
+    <Content Include="WebPages\HomePage\images\space-wallpaper-29.jpg" />
+    <Content Include="WebPages\HomePage\images\you.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,6 +85,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
