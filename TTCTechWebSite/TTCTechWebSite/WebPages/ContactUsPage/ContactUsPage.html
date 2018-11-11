@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Contact US</title>
+    <link href="ContactUsPageStyle.css" rel="stylesheet" />
+   <meta name="Contact US" content="Contact US" />
+</head>
+<body>
+<form method="post" action="../HomePage/homePage.html" id="contactUsForm">
+   <label for="first-name">First Name:</label><br />
+    <input type="text" id="first-name" name="FirstName" /><br />
+    <label for="email">E-M@il address:</label><br />
+    <input type="email" id="email" name="email" placeholder="your Email" /><br />
+
+    <label for="businessField">Business Field:</label><br />
+   <select name="field" id="cmbField" >
+     <option value="" style="font-style:italic; " disabled selected value >select one</option>
+    <option value="IT">IT</option>
+    <option value="HR">HR</option>
+    <option value="Sales">Sales</option>
+    <option value="Manager">Manager</option>
+  </select>
+  <br>
+
+    <input type="reset" value="clear" id="btnReset" />
+    <br />
+    <input type="submit" value="Submit" id ="btnSubmit" />
+
+
+
+</form>
+
+
+
+</body>
+</html>
